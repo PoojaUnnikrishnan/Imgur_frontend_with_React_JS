@@ -1,0 +1,17 @@
+.half-color {
+	
+	position:relative;
+	font-size:40px;
+	display:inline-block;
+ 	color:hsl(56, 100%, 50%);
+ 	font-family: ' sans serif', cursive;
+}
+.half-color:before{
+	content: attr(attribute);
+	color:#db115b;
+	position:absolute;
+	top:0;
+	left:0;
+	height:50%;
+	overflow:hidden;
+}
