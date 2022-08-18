@@ -1,6 +1,6 @@
 import axios from "axios";
 import authHeader from "./auth-headers";
-const API_URL = "http://localhost:8000/";
+const API_URL = "https://imgur--backend.herokuapp.com/";
 
 //To get AllImage API
 const getPublicContent = () => {

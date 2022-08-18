@@ -25,9 +25,9 @@ function Header() {
           to={"/"}
           className="navbar navbar-expand-sm bg-dark navbar-dark"
           style={{
-            paddingTop: "20px",
+            paddingTop: "5px",
             paddingLeft: "20px",
-            paddingRight: "400px",
+            paddingRight: "220px",
           }}
         >
           <b>
