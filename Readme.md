@@ -1,21 +1,8 @@
 # Milestone-7: Imgur
 
-## Learning Competencies
+##Deployed link ⭐https://relaxed-biscotti-4d8ae1.netlify.app/⭐
 
-At the end of this milestone you will learn
-
-- What are Task runners and Module bundlers
-- Understanding about Design Patterns in Javascript
-- Understanding the fundamentals of React
-- How to split the UI into independent and resuable **Components** in React
-- How to maintain internal **state** of the Component and pass the data between Components using **props**
-- Understanding the lifecycle of a Component
-
-
-## Guide
-[Click here to watch milestone guide](https://drive.google.com/open?id=11zh5Me-U9cIdbcmVdXOB7v1ApTCX7YG6)
-
-## Problem Statement
+### Problem Statement
 
 > An **image hosting service** allows individuals to upload images to an Internet website. The image host will then store the image onto its server, and show the individual different types of code to allow others to view that image.  
 > Prior to the development of image hosting services, the display and exchange of images on the early public Internet of the 1980s-1990s was a laborious and difficult process. Before the world wide web was developed, images would primarily be downloaded manually from file servers or from [binary newsgroups](https://en.wikipedia.org/wiki/Usenet_newsgroup#Binary_newsgroups) on [Usenet](https://en.wikipedia.org/wiki/Usenet), and displayed with a separate image viewer. The rise of the world wide web in the 1990s brought text and images together, allowing for inline display of images without separate downloading.  
