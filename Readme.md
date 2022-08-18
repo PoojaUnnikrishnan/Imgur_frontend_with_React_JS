@@ -1,6 +1,8 @@
 # Milestone-7: Imgur
 
-Deployed link ⭐https://relaxed-biscotti-4d8ae1.netlify.app/⭐
+# Deployed link 
+
+⭐https://imgur-app-pooja.netlify.app/⭐
 
 ### Problem Statement
 
