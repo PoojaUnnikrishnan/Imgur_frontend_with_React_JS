@@ -4,7 +4,7 @@
 //importing axios to make http request.
 
 import axios from "axios";
-const API_URL = "https://imgur--backend.herokuapp.com/";
+const API_URL = process.env.REACT_APP_API_URL
 
 //function to register details of user and post the details of user in database using API.
 const register = (fullName, email, password) => {
